@@ -14,7 +14,7 @@ It contains daily tasks, notes, labs, and mini-projects.
 ## 📖 DevSec Diaries
 Daily reflections and learnings:  
 - [Entry 1 – Getting Started](DevSec-Diaries/Entry-1.md)  
-- Entry 2 – …  
+ 
 
 ---
 
