@@ -1,0 +1,26 @@
+# Day 4 – Reconnaissance
+
+## Afternoon Task → Recon (whois, nslookup, Shodan)
+
+### WHOIS Findings
+- Registrar: [Add here]
+- Creation Date: 1997-03-29T05:00:00Z
+
+- Expiration Date:  2034-03-30T04:00:00Z
+- Nameservers: don't want to list
+
+### NSLOOKUP Findings
+- A Record:  don't want to list
+- MX Record:  don't want to list
+- TXT/SPF/DMARC Records:  don't want to list
+
+### Shodan Findings
+- Open Ports: 443,80
+- Services Detected: [Add here]
+- Technologies: ruby , nginx, ruby on rail
+- Potential Issues: CVE-2024-238976
+                    Heartbleed
+                    HTTP.sys Denial of Service1
+                    HTTP.sys Remote Code Execution
+
+---
