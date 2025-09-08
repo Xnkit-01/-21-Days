@@ -6,7 +6,10 @@ It contains daily tasks, notes, labs, and mini-projects.
 ---
 
 ## 📅 Daily Progress
-- ✅ [Day 1 – Hacker’s Manifesto](Projects/Manifesto.md)  
+- ✅ [Day 1 – Hacker’s Manifesto](Projects/Day1-Manifesto.md)  
+- ✅ [Day 2 – Analysis](Projects/Day2-Analysis.docx) 
+- ✅ [Day 3 – Linux Cheatsheet](Day3-linux_cheatsheet.pdf) 
+- ✅ [Day 4 – Research](Projects/Day4-Research.txt) 
 - … (updates daily)  
 
 ---
@@ -14,6 +17,9 @@ It contains daily tasks, notes, labs, and mini-projects.
 ## 📖 DevSec Diaries
 Daily reflections and learnings:  
 - [Entry 1 – Getting Started](DevSec-Diaries/Entry-1.md)  
+- [Entry 2 – Wireshark](DevSec-Diaries/Entry-2.md)  
+- [Entry 3 – Linux commands](DevSec-Diaries/Entry-3.md)  
+- [Entry 4 – Recon 1](DevSec-Diaries/Entry-4.md)  
  
 
 ---
