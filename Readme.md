@@ -10,6 +10,7 @@ It contains daily tasks, notes, labs, and mini-projects.
 - ✅ [Day 2 – Analysis](Projects/Day2-Analysis.docx) 
 - ✅ [Day 3 – Linux Cheatsheet](Day3-linux_cheatsheet.pdf) 
 - ✅ [Day 4 – Research](Projects/Day4-Research.txt) 
+- ✅ [Day 5 – Recon](Projects/Day5-Recon.md) 
 - … (updates daily)  
 
 ---
@@ -20,6 +21,7 @@ Daily reflections and learnings:
 - [Entry 2 – Wireshark](DevSec-Diaries/Entry-2.md)  
 - [Entry 3 – Linux commands](DevSec-Diaries/Entry-3.md)  
 - [Entry 4 – Recon 1](DevSec-Diaries/Entry-4.md)  
+- [Entry 5 – Recon 2](DevSec-Diaries/Entry-5.md)  
  
 
 ---
