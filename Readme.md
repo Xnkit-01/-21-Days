@@ -11,6 +11,7 @@ It contains daily tasks, notes, labs, and mini-projects.
 - ✅ [Day 3 – Linux Cheatsheet](Day3-linux_cheatsheet.pdf) 
 - ✅ [Day 4 – Research](Projects/Day4-Research.txt) 
 - ✅ [Day 5 – Recon](Projects/Day5-Recon.md) 
+- ✅ [Day 6 – Nmap](Projects/Day6-Nmap.md) 
 - … (updates daily)  
 
 ---
@@ -22,7 +23,7 @@ Daily reflections and learnings:
 - [Entry 3 – Linux commands](DevSec-Diaries/Entry-3.md)  
 - [Entry 4 – Recon 1](DevSec-Diaries/Entry-4.md)  
 - [Entry 5 – Recon 2](DevSec-Diaries/Entry-5.md)  
- 
+- [Entry 6 – Nmap](DevSec-Diaries/Entry-6.md)  
 
 ---
 
@@ -39,3 +40,5 @@ Wireshark, Nmap, Burp Suite, DVWA, Juice Shop, Python, Nessus/OpenVAS
 ---
 
 🚀 *Follow along as I document my 21-day journey into ethical hacking and bug bounty hunting.*
+
+ 
